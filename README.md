@@ -1,9 +1,9 @@
-﻿---
+---
 name: "PT's Realistic RTX"
 installerTitle: "PrinceTommy1538's realistic RTX"
 version: 1.0.0
 brtxVersion: 1.4.4
-lastUpdated: 2025-02-14
+lastUpdated: 2026-7-1
 author:PrinceTommy2014
 rtxStub: https://github.com/PrinceTommy1538/PT-s-Realistic-RTX/raw/refs/heads/main/RTXStub.material.bin
 rtxChecksum: 57E920ED4C7AE6C1BA73BB9AA86C15E24CBD0EB8BB8A12E4496A097068439296
@@ -16,5 +16,5 @@ tags: [Tone Mapping, Realistic]
 
 # PT's Realistic RTX
 
-This preset aims to make betterRTX as realistic to real life as possible, while still keepping the visuals close to vanilla Minecraft.
+This preset aims to make betterRTX as realistic to real life as possible, while still keeping the visuals close to vanilla Minecraft.
 
